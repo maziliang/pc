@@ -1,0 +1,5 @@
+[
+    {"src":"images/shuffling/2C5FE624_ChEi11ga7YqAQLjbAACMabBkOd479600.jpg"},
+    {"src":"images/shuffling/3E70A0D5_ChEwolgTHlCAR_JLAABhiOW0y9o27300.jpg"},
+    {"src":"images/shuffling/19C385B9_ChEi1VgYEGuAScCSAACQNJWiQcI85800.jpg"}
+]

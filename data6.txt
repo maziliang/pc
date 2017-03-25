@@ -1,0 +1,5 @@
+[
+    {"src":"images/minImg/ChEi1lgxAp-AaQRMAABeMlPm6hk06300.webp"},
+    {"src":"images/minImg/ChEi1FgyUSCAf_RzAAByqMKgkG827300.webp"},
+    {"src":"images/minImg/ChEi2FgyzjCAPqDVAABZdOS8R_g82400.webp"}
+]

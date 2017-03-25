@@ -1,0 +1,11 @@
+[
+    {"src":"images/logo/banner1.jpg"},
+    {"src":"images/logo/banner2.jpg"},
+    {"src":"images/logo/banner3.jpg"},
+    {"src":"images/logo/banner4.jpg"},
+    {"src":"images/logo/banner5.jpg"},
+    {"src":"images/logo/banner6.jpg"},
+    {"src":"images/logo/banner7.jpg"},
+    {"src":"images/logo/banner8.jpg"},
+    {"src":"images/logo/banner9.jpg"}
+]
